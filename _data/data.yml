@@ -7,18 +7,17 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Junseok Hur
-    tagline: MS candidate of CSDL, POSTECH in korea
+    name: JunSeok Hur
+    tagline: Master candidate of CSDL, POSTECH in Korea
     avatar:  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: jshur@postech.ac.kr
-    phone: 010-2533-4459
-    timezone: Korea 
+    phone: 010.2533.4459
     citizenship:
-    website:  #do not add http://
+    website: 
     linkedin: 
-    xing:
+    xing: 
     github: junseokhur
     telegram: # add your nickname without '@' sign
     gitlab:
@@ -27,195 +26,116 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf:
+    pdf: 
 
     languages:
-      title: Languages
-      info:
-        - idiom: Korean
-          level: Native
+      - idiom: Korean
+        level: Native
 
-        - idiom: English
-          level: Advanced
+      - idiom: English
+        level: Professional
 
-        - idiom: 
-          level: 
 
     interests:
-      title: Interests
-      info:
-        - item: 
-          link:
+      - item: Electrical Design Automation
+        link:
 
-        - item:
-          link:
+      - item: Deep Learning Hardware
+        link:
 
-        - item:
-          link:
+      - item:
+        link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+        JunSeok Hur received the B.S. degree in Electrical Engineering in 2023 from Sogang University, Seoul, South Korea. He is currently the M.S. candidate in electrical engineering in 2023 from Pohang University of Science and Technology(POSTECH), Pohang, South Korea. His current main research interest is Electronic Design Automation and Machine Learning. He is working with Prof. Seokhyeong Kang in CAD & SoC Design Lab.
+      
 education:
-    title: Education
-    info:
-      - degree: BSc in Electronic Engineering
-        university: Sogang University
-        time: 2017 - 2023
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: 
-        university: 
-        time:
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+    - degree: MSc in Electrical Engineering
+      university: Pohang University of Science and Technology, Republic of Korea
+      time: Feb. 2023 - Present
+
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - degree: BSc in Electrical Engineering
+      university: Sogang University
+      time: Mar. 2017 - Feb. 2023
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.          - Bullet point
+          - Bullet point
 experiences:
-    title: Experiences
-    info:
-      - role: 
-        time: 
-        company: 
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: 
-        time: 
-        company: 
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: 
-        time: 
-        company: 
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+    - role: Undergraduate Research Intern
+      time: June 2022 - Dec. 2022
+      company: Sogang University, South Korea
+      details: |
+        Development of Ultrasound Beamforming System for Various Biomedical and Industrial Applications
+          - Implementation of 64 channel ultrasound imaging system(sponsor: IBULE Photonics)
+          - Designed and implemented an ultrasound beamforming system, utilizing FPGAs, digital pulsers, and analog front-end chips(AFEs). Hardware schematic design was done via the ORCAD Pspice. FPGA control and manipulation was done by VHDL coding, and image data processing was done using MATLAB. Digital Time Gain Control(DTGC) automization using deep learning via VHDL hardware coding. 
 projects:
-    title:
+    title: Honors and Scholarships
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
+      - title:
+        link: "#hook"
+        tagline: "3 Consecutive Semesters"
+        
+      - title:
+        link: "#hook"
+        tagline: "Spring 2018"
+        
       - title: 
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Spring 2017"
 
-      - title: 
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+#publications:
+#    title: Publications
+#    intro: |
+#    papers:
+#      - title: The Art of Computer Programming
+#        link: "#"
+#        authors: Donald E. Knuth
+#        conference: Addison-Wesley, 1968
 
-      - title: 
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: 
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: 
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title:
-        link: "#"
-        tagline: 
-
-      - title:
-        link: "#"
-        tagline: 
-
-      - title:
-        link: "#"
-        tagline: 
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title:
-        link: "#"
-        authors: 
-        conference:
-
-      - title: 
-        link: "#"
-        authors: 
-        conference: 
-
-      - title: 
-        link: "#"
-        authors: 
-        conference: 
+#honors and scholarships:
+#    title: Honors and Scholarships
+#    intro: |
+#    assignments:
+#      - title: Faculty of Nature Scholarship
+#        link: "#"
+#        tagline: "3 Consecutive Semesters"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & C
+      - name: Python & Django
+        level: 98%
+
+      - name: Javascript & jQuery
+        level: 98%
+
+      - name: Angular
+        level: 98%
+
+      - name: HTML5 & CSS
+        level: 95%
+
+      - name: Ruby on Rails
+        level: 85%
+
+      - name: Sketch & Photoshop
         level: 60%
-
-      - name: Verilog/VHDL
-        level: 80%
-
-      - name: 
-        level: 
-
-      - name: 
-        level:
-
-      - name: 
-        level: 
-
-      - name: 
-        level: 
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
