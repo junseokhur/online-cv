@@ -9,11 +9,11 @@ sidebar:
     # Profile information
     name: Junseok Hur
     tagline: MS candidate of CSDL, POSTECH in korea
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar:  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: jshur@postech.ac.kr
-    phone: 010 2533 4459
+    phone: 010-2533-4459
     timezone: Korea 
     citizenship:
     website:  #do not add http://
