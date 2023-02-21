@@ -49,10 +49,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-        JoonSeok Kim received the B.S. degree in Electrical Engineering in 2023 from Sogang University, Seoul, South Korea. He is currently the M.S. candidate in electrical engineering in 2023 from Pohang University of Science and Technology(POSTECH), Pohang, South Korea. His current main research interest is Electronic Design Automation and Machine Learning. He is working with Prof. Seokhyeong Kang in CAD & SoC Design Lab.
+        Junseok Hur received the B.S. degree in Electrical Engineering in 2023 from Sogang University, Seoul, South Korea. He is currently the MS-Phd combined candidate in electrical engineering in 2023 from Pohang University of Science and Technology(POSTECH), Pohang, South Korea. His current main research interest is Electronic Design Automation and Machine Learning. He is working with Prof. Seokhyeong Kang in CAD & SoC Design Lab.
       
 education:
-    - degree: MSc in Electrical Engineering
+    - degree: MS-Phd integrated course in Electrical Engineering
       university: Pohang University of Science and Technology, Republic of Korea
       time: Feb. 2023 - Present
 
@@ -86,17 +86,17 @@ projects:
     title: Honors and Scholarships
     intro: >
     assignments:
-      - title: Faculty of Nature Scholarship
+      - title: 
         link: "#hook"
-        tagline: "3 Consecutive Semesters"
+        tagline:
         
-      - title: The Keunsarang Lee Han-ae Scholarship
+      - title: 
         link: "#hook"
-        tagline: "Spring 2018"
+        tagline: 
         
-      - title: Honors Scholarship(Sogang University)   
+      - title:   
         link: "#hook"
-        tagline: "Spring 2017"
+        tagline: 
 
 #publications:
 #    title: Publications
